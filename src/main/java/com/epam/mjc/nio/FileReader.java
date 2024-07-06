@@ -3,7 +3,6 @@ package com.epam.mjc.nio;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.IOException;
-import java.nio.*;
 
 public class FileReader {
 
